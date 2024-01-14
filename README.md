@@ -4,5 +4,5 @@ like...
 > list down  - `ls`<br>
 > change directory - `cd`
 
-<br>*** FOR MORE ABOUT THIS LINUX CONTENT!! CHECK IT OUT ... ***
+<br> ` FOR MORE ABOUT THIS LINUX CONTENT!! CHECK IT OUT ...`
 [AJ TECHNO PAGE](https://www.ajtechnopage.blogspot.com "blogspace contains of linux").
